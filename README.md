@@ -14,9 +14,9 @@
 - [x] Enviar mensaje a amigo
 - [ ] Enviar mensaje a grupo
 - [x] Modificar apodo de amigo
-- [ ] Modificar nombre a grupo
+- [x] Modificar nombre a grupo
 - [x] Eliminar amigo
-- [ ] Eliminar miembro de un grupo
+- [x] Eliminar miembro de un grupo
 - [ ] Eliminar grupo
 - [x] Desplegar lista de desconectados
 - [x] Desplegar lista de conectados
